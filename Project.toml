@@ -1,0 +1,4 @@
+name = "InitLoadableStruct"
+uuid = "c2283afa-f45b-4432-83db-f4cc05c12624"
+authors = ["Marcell <havlikmarcell@gmail.com>"]
+version = "0.1.0"
